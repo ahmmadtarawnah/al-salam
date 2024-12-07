@@ -3,4 +3,4 @@
 **this is my first project**
 > thank you for watching
 -------------------------------
-[here where i learned markdown](https://www.markdownguide.org/cheat-sheet/)
+[click here to lwarn markdown](https://www.markdownguide.org/cheat-sheet/)
